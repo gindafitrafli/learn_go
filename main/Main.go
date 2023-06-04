@@ -12,7 +12,11 @@ func main() {
 	// learnStruct()
 	// learnConditional()
 	// learnLoop()
-	learnControlFlow()
+	// learnControlFlow()
+	// learnPointer()
+	// learnmethodAndFunctionsAndInterface()
+	// learnConcurrency()
+	learnChannel()
 	fmt.Println("main")
 
 	// var i = 43
