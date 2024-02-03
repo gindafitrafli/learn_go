@@ -1,1 +1,7 @@
-### go mod init before run
+`
+ go mod init 
+ go build
+ go install
+ go run .
+
+`
