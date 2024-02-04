@@ -1,7 +1,5 @@
 `
- go mod init 
- go build
+ go mod init / go mod tidy 
  go install
  go run .
-
 `
